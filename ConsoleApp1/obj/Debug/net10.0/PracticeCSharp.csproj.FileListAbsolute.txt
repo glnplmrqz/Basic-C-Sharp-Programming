@@ -1,0 +1,15 @@
+C:\Users\glenp\OneDrive\C# PROGRAMMING\ConsoleApp1\bin\Debug\net10.0\PracticeCSharp.exe
+C:\Users\glenp\OneDrive\C# PROGRAMMING\ConsoleApp1\bin\Debug\net10.0\PracticeCSharp.deps.json
+C:\Users\glenp\OneDrive\C# PROGRAMMING\ConsoleApp1\bin\Debug\net10.0\PracticeCSharp.runtimeconfig.json
+C:\Users\glenp\OneDrive\C# PROGRAMMING\ConsoleApp1\bin\Debug\net10.0\PracticeCSharp.dll
+C:\Users\glenp\OneDrive\C# PROGRAMMING\ConsoleApp1\bin\Debug\net10.0\PracticeCSharp.pdb
+C:\Users\glenp\OneDrive\C# PROGRAMMING\ConsoleApp1\obj\Debug\net10.0\PracticeCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glenp\OneDrive\C# PROGRAMMING\ConsoleApp1\obj\Debug\net10.0\PracticeCSharp.AssemblyInfoInputs.cache
+C:\Users\glenp\OneDrive\C# PROGRAMMING\ConsoleApp1\obj\Debug\net10.0\PracticeCSharp.AssemblyInfo.cs
+C:\Users\glenp\OneDrive\C# PROGRAMMING\ConsoleApp1\obj\Debug\net10.0\PracticeCSharp.csproj.CoreCompileInputs.cache
+C:\Users\glenp\OneDrive\C# PROGRAMMING\ConsoleApp1\obj\Debug\net10.0\PracticeCSharp.dll
+C:\Users\glenp\OneDrive\C# PROGRAMMING\ConsoleApp1\obj\Debug\net10.0\refint\PracticeCSharp.dll
+C:\Users\glenp\OneDrive\C# PROGRAMMING\ConsoleApp1\obj\Debug\net10.0\PracticeCSharp.pdb
+C:\Users\glenp\OneDrive\C# PROGRAMMING\ConsoleApp1\obj\Debug\net10.0\PracticeCSharp.genruntimeconfig.cache
+C:\Users\glenp\OneDrive\C# PROGRAMMING\ConsoleApp1\obj\Debug\net10.0\ref\PracticeCSharp.dll
+C:\Users\glenp\OneDrive\C# PROGRAMMING\ConsoleApp1\obj\Debug\net10.0\PracticeCSharp.sourcelink.json
